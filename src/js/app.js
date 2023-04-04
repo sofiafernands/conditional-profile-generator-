@@ -58,19 +58,19 @@ window.onload = function() {
     background:
       "https://www.eniun.com/wp-content/uploads/evolucion-lenguajes-programacion-mas-utilizados-actualidad.png",
     // this is the url for the profile avatar
-    avatarURL: "/src/img.jpg/photoPerfil.jpg",
+    avatarURL: "/src/img.jpg/imagenPerfil2jpg.jpg",
     // social media bar position (left or right)
     socialMediaPosition: "position-left-right",
     // social media usernames
-    twitter: null,
+    twitter: "null",
     github: "sofiafernands",
     linkedin: null,
     instagram: null,
-    name: null,
-    lastname: null,
-    role: null,
-    country: null,
-    city: null
+    name: "",
+    lastname: "",
+    role: " ",
+    country: "",
+    city: ""
   };
   render(window.variables); //render the card for the first time
 
